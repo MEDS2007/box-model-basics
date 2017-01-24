@@ -1,0 +1,28 @@
+/* uncomment the code marked to see the changes */
+body {
+  /*margin: 0;*/
+  font-size: 2em;
+}
+header {
+  background: #ccc;
+  /*padding: 1em;*/
+}
+main {
+  background: #eee;
+  /*text-align: center;*/
+}
+h1 {
+  /*margin: 0;*/
+  padding: 1em 0;
+}
+p {
+  /*margin: 0;*/
+  padding: 0.5em 10px;
+  /*display: inline;*/
+}
+.roundy {
+  display: block;
+  border-radius: 50%;
+  /* COMMENT: centres the image: */
+  margin: 0 auto;
+}
